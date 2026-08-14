@@ -70,6 +70,3 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-> ⚠️ **This repository is an open-source placeholder version. Future versions will be closed-source.**
->
-> 本仓库为开源占位版本，后续版本将闭源。
